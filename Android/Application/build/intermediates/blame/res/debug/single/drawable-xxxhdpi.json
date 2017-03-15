@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/notroot/Desktop/SCR_Controller/Application/build/intermediates/res/merged/debug/drawable-xxxhdpi/ic_launcher.png",
+        "source": "/home/notroot/Desktop/SCR_Controller/Application/src/main/res/drawable-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/notroot/Desktop/BluetoothChat/Application/build/intermediates/res/merged/debug/drawable-xxxhdpi/ic_launcher.png",
+        "source": "/home/notroot/Desktop/BluetoothChat/Application/src/main/res/drawable-xxxhdpi/ic_launcher.png"
+    }
+]

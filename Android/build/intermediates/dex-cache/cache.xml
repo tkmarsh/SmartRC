@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/home/notroot/.android/build-cache/fdcda7727ed57df06bebbffe5095507ab3dfc352/output/jars/libs/internal_impl-23.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8bd336eeae661e8311330284897ee07f8ebaa297">
+        <dex dex="/home/notroot/Desktop/BluetoothChat/Application/build/intermediates/pre-dexed/debug/internal_impl-23.0.0_4e5278a2ab35cce2d787391fcc68d28bf2ab6076.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/notroot/.android/build-cache/5c07af8ff6ae8f88f39070fee0e23e251d7622ad/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="1618fd467fb5971c394741e8976ededb97aaee0a">
+        <dex dex="/home/notroot/Desktop/BluetoothChat/Application/build/intermediates/pre-dexed/debug/classes_4ed2c70d2f6f14f69354c1c2406adccd3bb3ac33.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/notroot/.android/build-cache/fdcda7727ed57df06bebbffe5095507ab3dfc352/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8413c27b45b7fe61dca4a98159f65e2cee215f5a">
+        <dex dex="/home/notroot/Desktop/BluetoothChat/Application/build/intermediates/pre-dexed/debug/classes_aaecd3794fbe9642a20edd79abcda4e2e628955b.jar" />
+    </item>
+
+</items>
