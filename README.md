@@ -10,7 +10,7 @@ Includes:
 - Arduino sketch for recieving and executing commands as well as interfacing with onboard sensors and communicating via a HC-06 Bluetooth transciever.
 
 Android app forked from Google's [BluetoothChat](https://github.com/googlesamples/android-BluetoothChat) example app and Arduino Sketch uses 
-Servo, DHT and [CS_MQ7](https://github.com/jmsaavedra/Citizen-Sensor/blob/master/sensors/MQ7%20Breakout/CS_MQ7/CS_MQ7.h) Libraries, which are all optional addons for extra equiptment. A base vehicles with no attachments doesn't require these.
+Servo, DHT and [CS_MQ7](https://github.com/jmsaavedra/Citizen-Sensor/blob/master/sensors/MQ7%20Breakout/CS_MQ7/CS_MQ7.h) Libraries, which are all optional addons for extra equiptment. A base vehicle with no attachments doesn't require these.
 
 WiFi FPV supported using a webcam, Raspberry Pi with a WiFi AP dongle and [Motion CCTV software.](https://packages.debian.org/jessie/video/motion)
 
