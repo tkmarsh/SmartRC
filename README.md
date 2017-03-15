@@ -17,4 +17,4 @@ WiFi FPV is supported using a webcam, Raspberry Pi with a WiFi AP dongle and [Mo
 With it being Arduino based, the vehicles are completely customisable in terms of software via the sketch and also hardware.
 The Android app can also be updated to accomodate these, however the platform is based on an 8 control code, so there are limits as to how many extra functions can be implemented.
 
-Extra Screenshots, hardware diagrams and more information can be found in the [wiki.](https://github.com/RDP-1/SmartRC/wiki) 
+Screenshots, hardware diagrams and more information can be found in the [wiki.](https://github.com/RDP-1/SmartRC/wiki) 
