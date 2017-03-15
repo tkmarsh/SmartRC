@@ -1,5 +1,5 @@
 # SmartRC
-Android controlled Arduino based bluetooth smart RC vehicles.
+## Android controlled, Arduino based bluetooth smart RC vehicle platform.
 
 Includes:
 
