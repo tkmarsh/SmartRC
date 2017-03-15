@@ -12,7 +12,7 @@ Includes:
 Android app forked from Google's [BluetoothChat](https://github.com/googlesamples/android-BluetoothChat) example app and Arduino Sketch uses 
 Servo, [DHT](https://github.com/adafruit/DHT-sensor-library) and [CS_MQ7](https://github.com/jmsaavedra/Citizen-Sensor/blob/master/sensors/MQ7%20Breakout/CS_MQ7/CS_MQ7.h) Libraries, which are all optional addons for extra equiptment. A base vehicle with no attachments doesn't require these.
 
-WiFi FPV supported using a webcam, Raspberry Pi with a WiFi AP dongle and [Motion CCTV software.](https://packages.debian.org/jessie/video/motion)
+WiFi FPV is supported using a webcam, Raspberry Pi with a WiFi AP dongle and [Motion CCTV software.](https://packages.debian.org/jessie/video/motion)
 
 With it being Arduino based, the vehicles are completely customisable in terms of software via the sketch and also hardware.
 The Android app can also be updated to accomodate these, however the platform is based on an 8 control code, so there are limits as to how many extra functions can be implemented.
