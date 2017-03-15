@@ -1,9 +1,8 @@
-//rip_firmware v1.1
-//Bugfree but messily programmed; loads of stuff needs cleaned up.
+//rip_firmware v1.1 - Updated 17/05/16
 
 #include <Servo.h> //Arduino Library For Controlling Servo Motors.
 #include <DHT.h> //Arduino Library To Interface With Digital Hygrometer/Thermometer (DHT11) .
-#include <CS_MQ7.h> //Arduino Library to Interface with MQ7 Carbon Monoxide Sensor, includes power management.
+#include <CS_MQ7.h> //Thirdparty Arduino Library to Interface with MQ7 Carbon Monoxide Sensor, includes power management.(Produced by jmsaavedra)
 #include <math.h>//C Numerics Library, this includes the ceil function used to round up.
 
 //Hardware Declarations
@@ -31,7 +30,6 @@ int LDR_Reading;
 int bluetooth_input; //Data Received From Smartphone Via Bluetooth
 int temp; //Thermometer Data Variable
 int humidity; // Hygrometer Data Variable
-int bluetooth_output; //Data To Be Transmitted To Smartphone Via Bluetooth
 int count; //Keeps track of which bit is being worked on for each function.
 int dec_to_bin_output[8]; //dec_to_bin_output control data loaded into this array
 int servo_horizontal_pos; //Current position of horizontal servo
