@@ -1,7 +1,7 @@
 # SmartRC
 Android controlled, Arduino based, bluetooth smart RC vehicle platform.
 
-Designed and created between late 2015 and early 2016 as my final year A-Level Computing project.
+Designed and developed between late 2015 and early 2016 as my final year A-Level Computing project.
 
 Includes:
 
