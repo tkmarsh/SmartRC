@@ -38,8 +38,6 @@ float battery_voltage;
 long int average_co;
 boolean led_on;
 boolean co_state;
-String state = "";
-
 
 void dec_to_bin(int bluetooth_input){
 count = 0;
@@ -65,7 +63,7 @@ int get_average_co(){
       co_data = analogRead(CoSensorOutput);
       average_co = average_co + co_data;
       //Serial.print("CO Reading No.") && Serial.print(count) && Serial.print(": ") && Serial.println(co_data);
-     }    
+     }
  }
      
   average_co /= 25; //Calculates average
@@ -81,18 +79,16 @@ int getAverageLight(){
   for (count=0;count<25;count ++){
     int ldrData = analogRead(A3);
       avgLDR += ldrData;
-     } 
+     }
        avgLDR /= 25; //Calculates average
        avgLDR = (1024 - avgLDR) - 15;//Inverts value and removes 15 to compensate for LDR inaccuracy
        
 if (avgLDR < 0){
   avgLDR = 0;
 }
- 
   return avgLDR; 
   }
  
-
 boolean get_co_sensor_state(){
    if(MQ7.CurrentState() == LOW){ 
     return true;
@@ -253,7 +249,6 @@ void loop() {
           //Serial.println("CAMERA PAN LEFT");
           }
         }
-       
         break;
 
       case 1://Camera Tilt - Up
@@ -267,7 +262,6 @@ void loop() {
           pause = false;
           }
         }
-
         break;
 
       case 0://Camera Tilt - Down
@@ -280,7 +274,6 @@ void loop() {
           pause = false;
           }
         }
- 
         break;
     }
     if (dec_to_bin_output[6] == 1 && dec_to_bin_output[7] == 1){
