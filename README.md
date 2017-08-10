@@ -18,3 +18,5 @@ With it being Arduino based, the vehicles are completely customisable in terms o
 The Android app can also be updated to accomodate these, however the platform is based on an 8 control code, so there are limits as to how many extra functions can be implemented.
 
 Screenshots, hardware diagrams and more information can be found in the [wiki.](https://github.com/RDP-1/SmartRC/wiki) 
+
+![SmartRC Hardware Example](http://projects.exlercs.com/images/smartrc.jpg)
