@@ -25,4 +25,4 @@ Detailed information about usage of the system can be found in this [manual](htt
 
 
 ![Basic Usage](http://i.imgur.com/fizbAAVr.jpg)
-![Camera Control](http://i.imgur.com/OGQf18Yr.jpg)
+![Camera Control](http://i.imgur.com/6gBZ5iC.jpg)
