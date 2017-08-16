@@ -19,4 +19,10 @@ The Android app can also be updated to accomodate these, however the platform is
 
 Screenshots, example hardware diagrams and more information (such as the example hardware below) can be found in the [wiki.](https://github.com/RDP-1/SmartRC/wiki) 
 
+Detailed information about usage of the system can be found in this [manual](https://drive.google.com/file/d/0B9BkMVJY4sRwRmM2NkVrSXkxa00/view)
+
 ![SmartRC Hardware Example](http://projects.exlercs.com/images/smartrc.jpg)
+
+
+![Basic Usage](http://i.imgur.com/fizbAAVr.jpg)
+![Camera Control](http://i.imgur.com/OGQf18Yr.jpg)
